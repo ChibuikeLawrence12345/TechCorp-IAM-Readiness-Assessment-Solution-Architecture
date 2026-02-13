@@ -325,7 +325,7 @@ Outcome: IAM transforms from compliance checkbox to business differentiator.
 
 ---
 
-## 🤖 The AI Opportunity: IAM's Next Frontier
+## The AI Opportunity: IAM's Next Frontier
 
 TechCorp's DNA is innovation. Building on the foundational IAM capabilities established in Phases 1-3, the following **AI-driven identity capabilities** are recommended for Phase 3+ and Year 2 execution.
 
@@ -362,29 +362,34 @@ TechCorp's DNA is innovation. Building on the foundational IAM capabilities esta
 
 | Artifact | Description | 
 |-----------|---------------|
-| [IAM Readiness Assessment Framework] | 7-dimension maturity model and gap analysis template |
-| [TechCorp IAM Solution Architecture] | High-level and component-level architecture diagrams | 
-| [12-Month Implementation Roadmap] | Phased plan with milestones, resources, and dependencies |
-| [Success Metrics Dashboard] | KPI framework with baselines and targets |
-| [Integration Challenges Matrix] | Legacy, cloud, and SaaS integration obstacles and mitigations | 
-| [Executive Presentation Deck] | Strategy narrative and business case |
-| [Article: Why Identity is the New Perimeter] |Published thought leadership on IAM in the age of AI |
+| IAM Readiness Assessment Framework | 7-dimension maturity model and gap analysis template |
+| TechCorp IAM Solution Architecture | High-level and component-level architecture diagrams | 
+| 12-Month Implementation Roadmap | Phased plan with milestones, resources, and dependencies |
+| Success Metrics Dashboard | KPI framework with baselines and targets |
+| Integration Challenges Matrix | Legacy, cloud, and SaaS integration obstacles and mitigations | 
+| Executive Presentation Deck | Strategy narrative and business case |
 
 ---
 
 ## Project Links
 
 - [IAM Readiness Assessment Framework]
+(https://github.com/ChibuikeLawrence12345/IAM-Readiness-Assessment-Framework/blob/main/README.md)
 
 - [TechCorp Solution Architecture Diagrams]
+(https://github.com/ChibuikeLawrence12345/TechCorp-Solution-Architecture-Diagrams/blob/main/README.md)
 
 - [Implementation Roadmap]
+(https://github.com/ChibuikeLawrence12345/Implementation-Roadmap/blob/main/README.md)
 
 - [Success Metrics Dashboard]
+(https://github.com/ChibuikeLawrence12345/Success-Metrics-Dashboard/blob/main/README.md)
+
+- [Integration Challenges Matrix]
+(https://github.com/ChibuikeLawrence12345/Integration-Challenges-Matrix/blob/main/README.md)
 
 - [Executive Presentation Deck]
-
-- [Published Article: Why Identity is the New Perimeter]
+(https://github.com/ChibuikeLawrence12345/Executive-Presentation-Deck/blob/main/README.md)
 
 ---
 
