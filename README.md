@@ -264,7 +264,7 @@ Impact: Helpdesk IAM tickets: 70% reduction | User satisfaction target: >4.5
 **Phase 3: Optimize & Govern (Months 8–12)**
 
 | Milestone | Deliverable | 
-|-----------|---------------|--------------|----------|
+|-----------|---------------|
 | Full RBAC Rollout | 95%+ job functions covered | 
 | Adaptive MFA | Risk-based authentication policies live | 
 | Cloud Entitlement Governance | AWS/Azure/GCP dashboards operational | 
@@ -361,7 +361,7 @@ TechCorp's DNA is innovation. Building on the foundational IAM capabilities esta
 ## Project Artifacts
 
 | Artifact | Description | 
-|-----------|---------------|--------------|----------|
+|-----------|---------------|
 | [IAM Readiness Assessment Framework] | 7-dimension maturity model and gap analysis template |
 | [TechCorp IAM Solution Architecture] | High-level and component-level architecture diagrams | 
 | [12-Month Implementation Roadmap] | Phased plan with milestones, resources, and dependencies |
@@ -374,17 +374,17 @@ TechCorp's DNA is innovation. Building on the foundational IAM capabilities esta
 
 ## Project Links
 
-[IAM Readiness Assessment Framework]
+- [IAM Readiness Assessment Framework]
 
-[TechCorp Solution Architecture Diagrams]
+- [TechCorp Solution Architecture Diagrams]
 
-[Implementation Roadmap]
+- [Implementation Roadmap]
 
-[Success Metrics Dashboard]
+- [Success Metrics Dashboard]
 
-[Executive Presentation Deck]
+- [Executive Presentation Deck]
 
-[Published Article: Why Identity is the New Perimeter]
+- [Published Article: Why Identity is the New Perimeter]
 
 ---
 
@@ -392,7 +392,10 @@ TechCorp's DNA is innovation. Building on the foundational IAM capabilities esta
 
 For questions, collaborations, or IAM strategy discussions:
 
-**Name**: Chibuike Lawrence
-**Email**: [lawchibuike12345@gmail.com]
-**LinkedIn**: [https://www.linkedin.com/in/chibuike-lawrence-2348b01b6]
-**GitHub**: [https://github.com/ChibuikeLawrence12345]
+- **Name**: Chibuike Lawrence
+
+- **Email**: [lawchibuike12345@gmail.com]
+
+- **LinkedIn**: [https://www.linkedin.com/in/chibuike-lawrence-2348b01b6]
+
+- **GitHub**: [https://github.com/ChibuikeLawrence12345]
